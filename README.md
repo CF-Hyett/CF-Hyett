@@ -12,8 +12,8 @@ I'm a new programmer, currently studying with at AI Core. I'm passionate about T
 Azure Fundamentals
 
 ## 💼 Projects
-- Project 1: (A brief description of Project 1) Multinational Retail Data Centralisation
-- Project 2: (A brief description of Project 2) Azure Database Migration
+- Project 1: Multinational Retail Data Centralisation - Developed a system that extracts retail sales data from different data sources such as; PDF documents, an AWS RDS database, RESTful API, JSON and CSV files
+- Project 2: Azure Database Migration - Utilised cloud engineering practices through the smooth transition of a production database from a virtual machine to Azure SQL Database
 
 ## 📫 How to reach me
 You can reach me at charlie.f.hyett@gmail.com, or on www.linkedin.com/in/charles-hyett.
