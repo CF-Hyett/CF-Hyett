@@ -1,7 +1,7 @@
 # Hello, I'm Charlie 👋
 
 ## 🚀 About Me
-I'm a new programmer, currently studying with at AI Core. I'm passionate about The Cloud and Data Engineering.
+I'm a new programmer that recently studied with at AI Core. I'm passionate about The Cloud and Data Analysis.
 
 ## 🛠 Skills
 - Language: Python, SQL & Matlab
